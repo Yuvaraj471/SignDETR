@@ -10,9 +10,6 @@ Link to be added.
 2. Clone the repo - `git clone https://github.com/nicknochnack/SignDETR .`
 3. Install all the dependencies `uv sync`
 
-# Collecting images 
-1. Update classes in `src/utils/collect_images.py`
-2. Run the script `uv run src/utils/collect_images.py`
 
 # Labelling them 
 1. Make sure label-studio is installed `uv pip list | grep label-studio`
