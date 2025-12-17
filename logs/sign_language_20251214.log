@@ -1,0 +1,4 @@
+2025-12-14 17:57:04,340 - sign_language - INFO - [info]Output directory: ./data/train[/info]
+2025-12-14 17:58:37,210 - sign_language - INFO - [info]Camera released and windows closed[/info]
+2025-12-14 18:01:59,694 - sign_language - INFO - [info]Output directory: ./data/test[/info]
+2025-12-14 18:02:31,374 - sign_language - INFO - [info]Camera released and windows closed[/info]

@@ -1,0 +1,1 @@
+2025-12-15 16:48:06,683 - realtime - ERROR - [error]Error initializing model or getting classes/colors: DETR.load_pretrained() got an unexpected keyword argument 'map_location'[/error]

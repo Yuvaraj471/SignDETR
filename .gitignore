@@ -1,0 +1,53 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+detrtest.py
+realtimeimage.py
+data/archive
+
+# data
+checkpoints
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+LossAnalysis.ipynb
+.ipynb_checkpoints
+archive
+example_loggers
+
+# Ignore model files
+*.pt
+*.pth
+
+# Ignore pretrained models folder
+pretrained/
+
+*.pt
+__pycache__/
+.env
+data/
+
+*.pt
+*.pth
+*.h5
+data/
+dataset/
+__pycache__/
+
+*.pt
+*.pth
+*.h5
+pretrained/
+__pycache__/
