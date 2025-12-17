@@ -6,7 +6,7 @@ More of a deep dive into training a DETR model from scratch and all the nuaces w
 2. Clone the repo - `git clone https://github.com/nicknochnack/SignDETR .`
 3. Install all the dependencies `uv sync`
 
-#Collecting images
+?C 𝘾𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙣𝙜 𝙄𝙢𝙖𝙜𝙚𝙨
 Update classes in src/utils/collect_images.py
 Run the script uv run src/utils/collect_images.py
 
