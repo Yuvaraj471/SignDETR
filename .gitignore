@@ -51,3 +51,24 @@ __pycache__/
 *.h5
 pretrained/
 __pycache__/
+
+# Models & weights
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Data
+data/
+dataset/
+datasets/
+
+# Python cache & env
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
